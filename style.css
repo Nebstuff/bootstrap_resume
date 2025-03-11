@@ -1,0 +1,68 @@
+body {
+    padding: 20px;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.4;
+    color: rgb(46, 62, 78);
+}
+
+.container {
+    background-color: rgb(191, 192, 199);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h1, h2 {
+    text-align: center;
+    position: relative;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1.5em;
+    color: rgb(41, 52, 68);
+}
+
+b {
+    color: rgb(44, 87, 121);
+}
+
+i {
+    font-style: italic;
+    color: rgb(0, 0, 0);
+}
+
+a {
+    color: rgb(82, 83, 83);
+    font-weight: 900;
+    text-decoration: none;
+}
+
+.links a:hover {
+    color: #7f8c8d;
+}
+
+hr {
+    border: none;
+    border-top: 2px solid #34495e;
+    margin: 20px 0;
+}
+
+ul {
+    font-size: 1.1em;
+}
+
+ul li {
+    padding-left: 15px;
+    padding-bottom: 8px;
+}
+
+.education {
+    padding-top: 47px;
+}
+.introduction {
+    text-align: center;
+}
